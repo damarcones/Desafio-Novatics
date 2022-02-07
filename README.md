@@ -84,16 +84,17 @@ board =
 
 ### Desafio 01
 
-...
-
+```
  node desafio01.js
-...
+
+```
+
 ### Desafio 02
 
-...
-
+```
  node desafio02.js
-...
+
+```
 
 ## Testes
 
@@ -101,15 +102,15 @@ board =
  
 ### Instalação
 
-...
+```
+ npm install --save-dev jest
 
-npm install --save-dev jest
-...
+```
 
 ### Execução 
 
-...
+```
+ npm test
 
-npm test
-...
+```
  
